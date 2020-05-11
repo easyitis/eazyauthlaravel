@@ -1,5 +1,5 @@
 ## Integrate EazyAuth with Laravel
-This repository consists of sample code to integrate EazyAuth to Laravel.
+This repository consists of sample code to integrate EazyAuth to Laravel. Visit https://eazyauth.com or https://www.youtube.com/embed/buw9inQ1HWc for details.
 
 ## What is EazyAuth
 EazyAuth makes 2 factor authentication easy. It provides a set of APIs to authenticate your users through one time passwords sent by email.
